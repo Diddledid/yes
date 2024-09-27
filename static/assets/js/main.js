@@ -219,6 +219,10 @@ document.addEventListener("DOMContentLoaded", () => {
       name: "Newsela | Binder",
       icon: "/assets/media/favicon/newsela.png",
     },
+    "No cloak": { 
+      name: "Interstellar",
+      icon: "/assets/media/favicon/in.png",
+    },
     "Newsela Assignments": {
       name: "Newsela | Assignments",
       icon: "/assets/media/favicon/newsela.png",

@@ -54,7 +54,7 @@ const themes = {
   catppuccinLatte: "/assets/css/themes/catppuccin/latte.css?v=4",
   Inverted: "/assets/css/themes/colors/inverted.css?v=4",
   sky: "/assets/css/themes/colors/sky.css?v=4",
-  mikuCard1: "/assets/media/background/fortheinterstellarweebs.jpg/"
+  mikuCard1: "/assets/css/themes/miku.css"
 };
 
 if (themes[themeid]) {
